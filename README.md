@@ -1,1 +1,1 @@
-# CollegeManagmant
+# CollageManagementSystem
